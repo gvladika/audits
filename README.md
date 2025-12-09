@@ -6,7 +6,7 @@
 | Centrifuge v3 p2   | Axelar/Wormhole cross-chain mgmt    | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-04-Centrifuge-Report_2.pdf) |
 | Centrifuge v3 p3   | Axelar/Wormhole cross-chain mgmt    | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-04-Centrifuge-Report_2.pdf) |
 | PancakeSwap        | Cross-chain swaps Across integration| Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-05-PancakeSwap-Protocol-Report.pdf) |
-| LiFi               | WhitelistManagerFaucet              | Solidity | soon |
+| LiFi               | WhitelistManagerFacet              | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-11-LiFi-WhitelistManagerFacet.pdf) |
 | Centrifuge         | LayerZero adapter                   | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-08-Centrifuge-LayerZeroAdapter.pdf) |
 | LiFi - Relay       | Relay bridge integration            | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-08-LiFi-RelayDepositoryFacet.pdf) |
 | LiFi - Garden      | Garden BTC bridge integration       | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-09-LiFi-GardenFacet.pdf) |
@@ -15,6 +15,10 @@
 | Centrifuge v3.1 p2 | Axelar/Wormhole/LZ cross-chain mgmt | Solidity | soon |
 | LiFi - Eco         | Eco intent protocol integration     | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-10-LiFi-EcoFacet.pdf) |
 | Centrifuge | CCIP integration | Solidity | soon |
+| Undisclosed | LayerZero cross-chain governance integration | Solidity | soon |
+| LiFi - LiFiIntentEscrow         | Escrow for LiFi Intent protocol     | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-11-LiFi-LiFiIntentEscrowFacet.pdf) |
+| Undisclosed | Polymarket UmaCtfAdapter fork | Solidity | soon |
+| Undisclosed | Confidential tokens | Solidity | soon |
 
 ## Contests
 
