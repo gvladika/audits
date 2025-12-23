@@ -15,10 +15,10 @@
 | Centrifuge v3.1 p2 | Axelar/Wormhole/LZ cross-chain mgmt | Solidity | soon |
 | LiFi - Eco         | Eco intent protocol integration     | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-10-LiFi-EcoFacet.pdf) |
 | Centrifuge | CCIP integration | Solidity | soon |
-| Undisclosed | LayerZero cross-chain governance integration | Solidity | soon |
+| Zama | LayerZero cross-chain governance integration | Solidity | soon |
 | LiFi - LiFiIntentEscrow         | Escrow for LiFi Intent protocol     | Solidity | [Link](https://github.com/gvladika/audits/blob/main/reports/2025-11-LiFi-LiFiIntentEscrowFacet.pdf) |
 | Undisclosed | Polymarket UmaCtfAdapter fork | Solidity | soon |
-| Undisclosed | Confidential tokens | Solidity | soon |
+| Zaiffer USDX | Confidential tokens (FHE) | Solidity | soon |
 
 ## Contests
 
